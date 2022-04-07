@@ -8,4 +8,4 @@ Hello world
 2. **Age**: 29
 3. **Occupation**: Technical Writer
 4. **Current Hobby**: Film photography
-5. *This is not end of the file. Updates ar coming soon.*
+5. *This is not end of the file. Updates are coming soon.*
