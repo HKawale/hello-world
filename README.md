@@ -13,3 +13,4 @@ Hello world
 1. **Software proficiency**
     - MS word
     - Adobe Framemaker
+    - Adobe Illustrator
